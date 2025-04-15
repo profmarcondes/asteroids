@@ -10,7 +10,7 @@ Clássico jogo dos anos 80. Você está sozinho no universo e tem que desviar de
 
 > Repositório destinado para o desenvolvimento do projeto final da discipliana PRG22107 - Programação orienta a objeto. 
 > 
-> Aluno: Hugo Marcondes 
+> Aluno: Hugo Marcondes  
 > Professor: Hugo Marcondes
 
 <p align=center><strong>SUMÁRIO</strong></p>
