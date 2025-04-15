@@ -2,13 +2,15 @@
      width="30%"
      style="padding: 10px">
 
-# << Título do projeto >>
+# Asteroids
 
-## << Descrição breve do domínio do problema >>
+## Descrição do Domínio
+
+Clássico jogo dos anos 80. Você está sozinho no universo e tem que desviar de todos os asteróides que aparecem.
 
 > Repositório destinado para o desenvolvimento do projeto final da discipliana PRG22107 - Programação orienta a objeto. 
 > 
-> Aluno: Nome do aluno  
+> Aluno: Hugo Marcondes 
 > Professor: Hugo Marcondes
 
 <p align=center><strong>SUMÁRIO</strong></p>
